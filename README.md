@@ -1,15 +1,17 @@
+## About Me
+
 ### Hi folks 👋
 
-I am *Julia Kuzniecowa*, a technical writer with the engineering background and current main interests in the docs-as-code approach. I am writing, coding, studying, mentoring, and contributing to my community as far as I have the strength and capacity.
+I am *Julia Kuznietsova*, a technical writer with an engineering background and current main interests in the docs-as-code approach. I am writing, coding, studying, mentoring, and contributing to my community.
 
-I am looking forward to absorb knowledge 🧠, gain experience :dizzy:, collaborate 🤝 and build amazing products for the world 🌍!
+I am looking forward to absorbing knowledge 🧠, gain experience :dizzy:, collaborating 🤝, and building amazing products for the world 🌍!
 
 | | |
 |---|---|
-| **Name** | Julia Kuzniecowa (Юлія Кузнєцова /Yuliia Kuznietsova) |
+| **Name** | Julia (Юлія / Yuliia) |
 | **Born** | September 25, 1984 |
-| **Nationality** | Ukrainian |
-| **Residence** | Poland |
+| **Nationality** | Ukrainian 🇺🇦 [Please donate to support Ukraine's independence!](https://savelife.in.ua/en/donate-en/#donate-army-card-monthly)|
+| **Residence** | Poland 🇵🇱 |
 | **Languages** | Ukrainian, Russian, English, Polish |
 | **Education** | BE, Industrial and Civil Engineering |
 | **Occupation** | Technical Writer |
