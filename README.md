@@ -4,7 +4,7 @@
 
 I am Julia, a **Business Systems Analyst** and **Proxy Product Owner** who somehow convinced people I know what I'm doing 😅 I spend my days translating between humans who speak "business" and humans who speak "programmerish" 🤓 And when I'm not deciphering what stakeholders *actually* want vs what they *say* they want, I try creating documentation that people might actually read 📋
 
-In my "spare time" (😆), I mentor aspiring tech writers and analysts and volunteer for @nerdscodinggang because it turns out that sharing knowledge is addictive 🎓
+In my "spare time" (😆), I mentor aspiring tech writers and analysts and volunteer for [@NerdsCodingGang](https://github.com/NerdsCodingGang) because it turns out that sharing knowledge is addictive 🎓
 
 I'm on a mission to expand my **data warehousing and ETL wizardry** 🧙‍♀️, level up my **analytics superpowers** ⚡, find teammates who laugh at my terrible jokes 🤝, and maybe save one small world with one well-documented business requirement at a time 🌍!
 
